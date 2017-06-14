@@ -1,0 +1,9 @@
+hubot:
+  build: ./hubot
+  links:
+    - redis
+  env_file:
+    - ./hubot/.env
+
+redis:
+  image: redis
