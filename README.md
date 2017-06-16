@@ -20,8 +20,8 @@ $ git clone git@github.com:imunew/hubot-github-reviewer-lotto.git
 #### Create and edit .env file
 
 ```bash
-$ cp docker/hubot/.env.example docker/hubot/.env
-$ vi docker/hubot/.env
+$ cp hubot/.env.example hubot/.env
+$ vi hubot/.env
 ```
 
 See https://github.com/sakatam/hubot-reviewer-lotto
